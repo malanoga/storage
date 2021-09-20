@@ -18,3 +18,4 @@ C:\mystuff\Testing\Practice\StorageApplication\StorageApplication\obj\Debug\netc
 C:\mystuff\Testing\Practice\StorageApplication\StorageApplication\obj\Debug\netcoreapp3.1\StorageApplication.dll
 C:\mystuff\Testing\Practice\StorageApplication\StorageApplication\obj\Debug\netcoreapp3.1\StorageApplication.pdb
 C:\mystuff\Testing\Practice\StorageApplication\StorageApplication\obj\Debug\netcoreapp3.1\StorageApplication.genruntimeconfig.cache
+C:\mystuff\Testing\Practice\StorageApplication\StorageApplication\obj\Debug\netcoreapp3.1\StorageApplication.MvcApplicationPartsAssemblyInfo.cs
