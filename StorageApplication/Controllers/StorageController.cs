@@ -22,7 +22,7 @@ namespace StorageApplication.Controllers
         [HttpGet]
         public Task<IEnumerable<Person>> GetPersons()
         {
-            return Task.FromResult(People.GetPeople().AsEnumerable());
+            return Task.FromResult(People.AllPeople().AsEnumerable());
         }
         [HttpPost]
         public Task<string> GetPersons(Person person)
