@@ -17,7 +17,7 @@ namespace StorageApplication
         }
         public static Person GetPersonByName(string name)
         {
-            return GetPeople().Select(x => x).Where(x => x.Name == "name").FirstOrDefault();
+            return GetPeople().Where(x => x.Name == name).FirstOrDefault();
         }
         public static List<Person> AllPeople()
         {
